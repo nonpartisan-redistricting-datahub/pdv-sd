@@ -257,6 +257,82 @@ G16RGTDMAD - Alice Madden (Democratic Party)
 G16RGTRGAN - Heidi Ganahl (Republican Party)
 
 
+Connecticut
+-----------
+Election results from the Connecticut Secretary of State (https://portal.ct.gov/SOTS/Election-Services/Election-Results/Election-Results). Precinct shapefile from the U.S. Census Bureau's 2020 Redistricting Data Program.
+
+District splits not reported separately were merged for Bethel 5, Bridgeport 129-3, 130-2, Durham 3, East Haven 3-3, Hartford 11, 12, 24, Naugatuck 3-3, New Britain 12, New Haven 9-2, 17, 21-1, Stamford 3, 5, 6-1, 8, 12, 20-1, 21, Torrington 6, 7, Waterbury 74-5.
+
+The Stratford and Westport precincts were renumbered from municipal districts to state/federal districts.
+
+The following additional modifications were made to match the 2016 precinct boundaries.
+
+Ansonia: Adjust 1/2 to match shapefile
+Avon: Adjust 1/3 to match street list
+Berlin: Adjust 2/5 to match voter file
+Bethel: Adjust 1/4 to match voter file
+Bridgeport: Adjust 124-2/3/4, 126-1/2/5, 130-3/4 to match PDF
+Colchester: Adjust 1/3, 2/4 to match street list
+Coventry: Adjust 1/2 to match street list
+Danbury: Align wards 4/5, 6/7 with PDF
+Darien: Align 1/5, 1/6, 2/4 with shapefile
+East Hartford: Adjust 1/2, 5/6 to match street list
+East Haven: Add 1-3, 5-3 to match street list; Align 3, 3-3 with LD
+East Windsor: Align 1, 1-2 with LD
+Enfield: Adjust 258/458 to match PDF
+Fairfield: Split 3-32/3-34 by LD; Adjust 8/9 to match PDF
+Glastonbury: Adjust 4/5, 4/9, 7/9 to match PDF
+Greenwich: Split 10/10-1 by LD; Adjust 1/2/3 to match PDF
+Guilford: Adjust 1/3, 2/3 to match descriptions
+Haddam: Adjust 1/2 to match street list
+Hamden: Adjust 1/9, 5/6 to match PDF
+Killingly: Adjust 2/4, 3/4 to match PDF
+Ledyard: Adjust 1/2 to match street list
+Litchfield: Adjust 2/4 to match voter file
+Manchester: Merge 5/9; Adjust 3/5 to match street list
+Middletown: Adjust 1/12 to match GIS
+Milford: Align 117/119, 119-1/3 with LD and PDF
+New Britain: Adjust 12/14 to match voter file
+New Haven: Split 11-1/11-3 and align VTDs with voter file
+New Milford: Align all VTDs with voter file
+Newtown: Adjust 1/2 to match street list
+Norwich: Adjust 4/5 to match voter file
+Plainfield: Adjust 1/3, 2/4 to match voter file
+Plymouth: Split 1/2 to match registrar description
+Ridgefield: Adjust 1/2, 1/3 to match voter file
+Rocky Hill: Adjust 2/3 to match voter file
+Seymour: Adjust 1/3, 2/3 to match voter file
+Shelton: Adjust 1/4, 2/3 to match PDF, voter file
+Simsbury: Adjust all VTDs to reverse 2017 redistricting
+South Windsor: Adjust 3/5, 4/5 to match PDF
+Southbury: Align all VTDs with shapefile, street list
+Southington: Adjust 3/6, 5/8, 8/9 to match PDF
+Stafford: Adjust 1/2 to match PDF
+Stamford: Merge 1/23 and adjust 6/7 to reverse 2019 redistricting
+Stonington: Align all VTDs with shapefile
+Stratford: Split 20-1/13, 80-1/21 by LD; Align VTDs with voter file
+Vernon: Adjust 1/2, 2/3 to match PDF
+Wallingford: Adjust 2/3, 2/4, 7/8 to match voter file
+Waterbury: Align VTDs with PDF, street list, voter file
+West Haven: Adjust 1/7, 4/5/6, 8/9/10 to match voter file
+Weston: Adjust 1/2 to match voter file
+Windham: Adjust 4/6 to match street list
+Windsor: Adjust 1/3 to match street list
+Wolcott: Adjust 1/2, 1/3 to match voter file
+
+G16PREDCLI - Hillary Clinton (Democratic Party)
+G16PRERTRU - Donald J. Trump (Republican Party)
+G16PRELJOH - Gary Johnson (Libertarian Party)
+G16PREGSTE - Jill Stein (Green Party)
+G16PREOWRI - Write-in Votes
+
+G16USSDBLU - Richard Blumenthal (Democratic Party and Working Families Party (fusion candidate))
+G16USSRCAR - Dan Carter (Republican Party)
+G16USSLLIO - Richard Lion (Libertarian Party)
+G16USSGRUS - Jeffery Russell (Green Party)
+G16USSOWRI - Write-in Votes
+
+
 Delaware
 --------
 Election results from Delaware Department of Elections (https://elections.delaware.gov/archive/elect16/elect16_general/html/index.shtml)
