@@ -25,7 +25,6 @@ Please reach out to info@redistrictingdatahub.org to reach our support team if y
 - File: 2020 Redistricting Data Program Final Release (SD Partnership Shapefile)
   - Date accessed: 8/25/2021
   - Link: https://www.census.gov/geo/partnerships/pvs/partnership19v2/st46_sd.html
-  - Note: Downloaded up to 5 at a time
 
 ## File processing:
 
